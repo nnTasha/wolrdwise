@@ -1,4 +1,4 @@
-import useCities from '../customHooks/useCities';
+import { useCities } from '../hooks/useCities';
 import CityItem from './CityItem';
 import styles from './CityList.module.css';
 import Message from './Message';
